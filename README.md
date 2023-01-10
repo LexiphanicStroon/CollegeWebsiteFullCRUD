@@ -10,3 +10,5 @@ You can update the database from the front-end, and there is client-side validat
 with TypeScript so nothing that will throw an error can be passed to the database.
 UI is done with bootstrap. 
 Some custom javascript functions
+
+
